@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|c:\\users\\user\\source\\repos\\attendancesystem\\attendancesystem\\formstudentregistration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formstudentregistration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formstudentregistration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formstudentregistration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formmanageteachers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formmanageteachers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formadmindashboard2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formadmindashboard2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formmanageteachers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formmanageteachers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formaddstudent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formaddstudent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formaddstudent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formaddstudent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formadminregister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formadminregister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formaddadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formaddadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formaddadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formaddadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formstudentdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formstudentdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formstudentdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formstudentdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formassighncourses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formassighncourses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formassighncourses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formassighncourses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formmanagecourses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formmanagecourses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formmanagecourses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formmanagecourses.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\teacherdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\teacherdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formadmindashboard2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formadmindashboard2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formforgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formforgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formforgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formforgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\teacherdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\teacherdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\appglobals.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\appglobals.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formassighncourses.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formassighncourses.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formattendancehistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formattendancehistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formadminregister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formadminregister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\formattendancehistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\formattendancehistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|C:\\Users\\USER\\source\\repos\\AttendanceSystem\\attendancesystem\\customprogressbar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{425626DD-63D5-46B0-BE60-0911192ACE20}|AttendanceSystem\\AttendanceSystem.vbproj|solutionrelative:attendancesystem\\customprogressbar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormLogin.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormLogin.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormLogin.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\FormLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T04:16:54.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormManageTeachers.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormManageTeachers.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormManageTeachers.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormManageTeachers.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\FormManageTeachers.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T06:12:41.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\Form1.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Form1.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\Form1.vb",
+              "RelativeToolTip": "AttendanceSystem\\Form1.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T04:09:33.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormLogin.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormLogin.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormLogin.vb",
+              "RelativeToolTip": "AttendanceSystem\\FormLogin.vb",
+              "ViewState": "AgIAAIsAAAAAAAAAAAASwJoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T04:40:25.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormStudentRegistration.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormStudentRegistration.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormStudentRegistration.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormStudentRegistration.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\FormStudentRegistration.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-13T04:47:05.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormStudentRegistration.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormStudentRegistration.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormStudentRegistration.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormStudentRegistration.vb",
+              "RelativeToolTip": "AttendanceSystem\\FormStudentRegistration.vb",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T04:53:49.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAdminDashboard2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAdminDashboard2.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormAdminDashboard2.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAdminDashboard2.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\FormAdminDashboard2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T04:28:29.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\Form1.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Form1.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\Form1.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T04:02:28.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormManageTeachers.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormManageTeachers.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormManageTeachers.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormManageTeachers.vb",
+              "RelativeToolTip": "AttendanceSystem\\FormManageTeachers.vb",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv1MAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T06:19:58.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormAddStudent.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAddStudent.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormAddStudent.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAddStudent.vb",
+              "RelativeToolTip": "AttendanceSystem\\FormAddStudent.vb",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T05:53:28.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAddStudent.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAddStudent.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormAddStudent.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAddStudent.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\FormAddStudent.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T05:46:52.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAdminRegister.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAdminRegister.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormAdminRegister.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAdminRegister.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\FormAdminRegister.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T04:12:21.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormAddAdmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAddAdmin.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormAddAdmin.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAddAdmin.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\FormAddAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-13T06:59:17.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormAddAdmin.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAddAdmin.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormAddAdmin.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAddAdmin.vb",
+              "RelativeToolTip": "AttendanceSystem\\FormAddAdmin.vb",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAewDkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-13T07:08:09.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormStudentDashboard.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormStudentDashboard.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormStudentDashboard.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormStudentDashboard.vb",
+              "RelativeToolTip": "AttendanceSystem\\FormStudentDashboard.vb",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAlwNkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T04:59:56.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormStudentDashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormStudentDashboard.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormStudentDashboard.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormStudentDashboard.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\FormStudentDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T04:36:58.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormAssighnCourses.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAssighnCourses.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormAssighnCourses.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAssighnCourses.vb",
+              "RelativeToolTip": "AttendanceSystem\\FormAssighnCourses.vb",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAlwGkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T08:43:35.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormAssighnCourses.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAssighnCourses.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormAssighnCourses.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAssighnCourses.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\FormAssighnCourses.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T08:43:32.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormManageCourses.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormManageCourses.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormManageCourses.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormManageCourses.vb",
+              "RelativeToolTip": "AttendanceSystem\\FormManageCourses.vb",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwEQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T06:29:44.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormManageCourses.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormManageCourses.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormManageCourses.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormManageCourses.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\FormManageCourses.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T06:24:11.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeacherDashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\TeacherDashboard.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\TeacherDashboard.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\TeacherDashboard.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\TeacherDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T07:49:09.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormAdminDashboard2.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAdminDashboard2.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormAdminDashboard2.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAdminDashboard2.vb",
+              "RelativeToolTip": "AttendanceSystem\\FormAdminDashboard2.vb",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAlwLgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T05:54:14.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormForgotPassword.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormForgotPassword.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormForgotPassword.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormForgotPassword.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\FormForgotPassword.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-13T06:25:16.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormForgotPassword.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormForgotPassword.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormForgotPassword.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormForgotPassword.vb",
+              "RelativeToolTip": "AttendanceSystem\\FormForgotPassword.vb",
+              "ViewState": "AgIAACwAAAAAAAAAAAAlwDwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-13T06:26:20.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TeacherDashboard.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\TeacherDashboard.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\TeacherDashboard.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\TeacherDashboard.vb",
+              "RelativeToolTip": "AttendanceSystem\\TeacherDashboard.vb",
+              "ViewState": "AgIAADcAAAAAAAAAAAAlwEYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T07:49:40.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppGlobals.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\AppGlobals.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\AppGlobals.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\AppGlobals.vb",
+              "RelativeToolTip": "AttendanceSystem\\AppGlobals.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T04:49:22.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormAssighnCourses.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAssighnCourses.Designer.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormAssighnCourses.Designer.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAssighnCourses.Designer.vb",
+              "RelativeToolTip": "AttendanceSystem\\FormAssighnCourses.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-16T06:46:27.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormAttendanceHistory.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAttendanceHistory.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormAttendanceHistory.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAttendanceHistory.vb [Design]",
+              "RelativeToolTip": "AttendanceSystem\\FormAttendanceHistory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T05:02:44.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormAdminRegister.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAdminRegister.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormAdminRegister.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAdminRegister.vb",
+              "RelativeToolTip": "AttendanceSystem\\FormAdminRegister.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T04:16:01.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormAttendanceHistory.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAttendanceHistory.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\FormAttendanceHistory.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\FormAttendanceHistory.vb",
+              "RelativeToolTip": "AttendanceSystem\\FormAttendanceHistory.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T05:06:13.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomProgressBar.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\CustomProgressBar.vb",
+              "RelativeDocumentMoniker": "AttendanceSystem\\CustomProgressBar.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\AttendanceSystem\\AttendanceSystem\\CustomProgressBar.vb",
+              "RelativeToolTip": "AttendanceSystem\\CustomProgressBar.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-12T05:08:53.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
